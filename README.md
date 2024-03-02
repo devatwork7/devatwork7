@@ -1,6 +1,6 @@
 <h2>Hi 👋, I'm Hanna Varghese</h2>
 
-- 👯 I’m looking to collaborate on **innovative projects that challenges me.**
+I’m looking to collaborate on **innovative projects that challenges me.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
